@@ -1,4 +1,4 @@
-## Tokopedia Review Scrapper
+## Tokopedia Review Scraper
 
 This code is designed to scrape reviews for a specific product on Tokopedia (Indonesian e-commerce website) using Selenium and BeautifulSoup libraries. It extracts the reviewer name, review content, star rating, the number of helpful votes, and any problems mentioned in the review.
 
